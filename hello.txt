@@ -1,4 +1,4 @@
-Hello Java!222222222222222
-Hello Git!333333333333333
-Hello Offer!44444444444
+Hello Java!22222
+Hello Git!33333
+Hello Offer!44444
 Hello GitHub!
